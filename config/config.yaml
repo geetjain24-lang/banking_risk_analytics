@@ -1,0 +1,31 @@
+database:
+  type: sqlite
+  path: data/recon.db
+
+s3:
+  bucket: strategic-recon-reports
+  prefix: reports
+  region: us-east-1
+
+screening:
+  fuzzy_match_threshold: 85
+  match_on_dob: true
+  match_on_nationality: true
+
+source_systems:
+  housing_loan:
+    table: housing_loan
+    csv: sample_data/housing_loan.csv
+  student_loan:
+    table: student_loan
+    csv: sample_data/student_loan.csv
+  credit_card:
+    table: credit_card
+    csv: sample_data/credit_card.csv
+
+world_check:
+  table: world_check
+  csv: sample_data/world_check.csv
+
+output:
+  directory: output

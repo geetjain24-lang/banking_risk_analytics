@@ -1,0 +1,11 @@
+customer_id,full_name,dob,nationality,address,loan_amount
+HL001,John Michael Smith,1985-03-15,US,123 Oak Street New York NY,450000
+HL002,Maria Garcia Lopez,1990-07-22,MX,456 Pine Ave Miami FL,320000
+HL003,Ahmad Hassan Al-Rashid,1978-11-03,SA,789 Cedar Blvd Houston TX,575000
+HL004,Elena Petrova,1982-05-18,RU,321 Maple Dr Chicago IL,290000
+HL005,James Robert Wilson,1995-01-30,US,654 Elm St Los Angeles CA,410000
+HL006,Fatima Al-Zahra,1988-09-12,AE,987 Birch Ln Dallas TX,380000
+HL007,Chen Wei Ming,1975-04-25,CN,147 Spruce Ct San Francisco CA,620000
+HL008,Olga Ivanova Kuznetsova,1992-12-08,RU,258 Walnut Rd Seattle WA,340000
+HL009,Mohammed bin Salman,1985-08-31,SA,369 Ash Pl Denver CO,500000
+HL010,Sarah Jane Thompson,1980-06-14,GB,741 Willow Way Boston MA,275000

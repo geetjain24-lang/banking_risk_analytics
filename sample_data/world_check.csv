@@ -1,0 +1,11 @@
+entity_id,entity_name,dob,nationality,category,listed_date
+WC001,Mohammed bin Salman Al Saud,1985-08-31,SA,PEP,2017-06-21
+WC002,Elena Petrova,1982-05-18,RU,Sanctions,2022-03-15
+WC003,Ahmad Hassan Al Rashid,1978-11-03,SA,Adverse Media,2021-09-10
+WC004,Sergei Ivanov Petrov,1991-01-25,RU,Sanctions,2023-01-20
+WC005,Fatima Al-Zahra bin Ahmed,1988-09-12,AE,PEP,2020-07-05
+WC006,John Michael Smith Jr,1985-03-15,US,Adverse Media,2019-11-30
+WC007,Omar Hassan Abdullahi,1995-07-09,SO,Sanctions,2022-08-14
+WC008,Li Wei,1975-04-25,CN,PEP,2018-04-22
+WC009,Viktor Petrov Ivanov,1997-08-30,RU,Adverse Media,2023-05-11
+WC010,Raj Kumar Patel,1986-07-19,IN,Sanctions,2021-12-03
