@@ -1,0 +1,11 @@
+customer_id,full_name,dob,nationality,university,loan_amount
+SL001,David Lee Chang,1998-02-20,US,MIT,85000
+SL002,Aisha Mohammed Khan,1999-05-11,PK,Stanford University,92000
+SL003,Viktor Petrov,1997-08-30,RU,Harvard University,78000
+SL004,Ana Sofia Rodriguez,1996-11-15,CO,Yale University,88000
+SL005,Ahmed Hassan Rashid,1978-11-03,SA,Columbia University,65000
+SL006,Yuki Tanaka,2000-03-22,JP,UC Berkeley,71000
+SL007,Elena Petrov,1982-05-18,RU,Princeton University,95000
+SL008,Omar Abdullahi,1995-07-09,SO,Georgetown University,82000
+SL009,Li Wei Chen,1998-12-01,CN,Caltech,76000
+SL010,Priya Sharma,1999-09-17,IN,NYU,69000

@@ -1,0 +1,19 @@
+bigquery:
+  dataset: fraud_detection
+  tables:
+    fraud_scores: fraud_scores
+    merchants: merchants
+    transactions: transactions
+cloud_storage:
+  bucket_name: hallowed-scene-490801-i7-fraud-detection
+  enrichment_path: raw/enrichment/
+  raw_path: raw/transactions/
+data_generation:
+  date_range_end: '2026-03-01'
+  date_range_start: '2024-01-01'
+  fraud_rate: 0.035
+  num_transactions: 500000
+project:
+  gcp_project_id: hallowed-scene-490801-i7
+  name: fraud-detection-gcp
+  region: us-central1

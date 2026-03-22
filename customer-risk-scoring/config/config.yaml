@@ -1,0 +1,8 @@
+database:
+  driver: "SQL Server"
+  server: 'localhost\SQLEXPRESS'
+  database: "CustomerRiskDB"
+
+paths:
+  risk_sql: "../sql/risk_logic.sql"
+  output_file: "../data/risk_output.csv"

@@ -1,0 +1,11 @@
+customer_id,full_name,dob,nationality,address,credit_limit
+CC001,Robert James Brown,1987-04-10,US,111 First St Atlanta GA,25000
+CC002,Fatimah Al Zahra,1988-09-12,AE,222 Second Ave Phoenix AZ,30000
+CC003,Sergei Ivanov,1991-01-25,RU,333 Third Blvd Portland OR,20000
+CC004,John M Smith,1985-03-15,US,444 Fourth Dr Nashville TN,35000
+CC005,Mei Lin Wong,1993-06-28,SG,555 Fifth St San Diego CA,28000
+CC006,Mohammed Bin Salman,1985-08-31,SA,666 Sixth Ave Austin TX,45000
+CC007,Isabella Martinez,1994-10-05,AR,777 Seventh Rd Philadelphia PA,22000
+CC008,Andrei Kuznetsov,1989-02-14,RU,888 Eighth Ct Minneapolis MN,27000
+CC009,Sarah Thompson,1980-06-14,GB,999 Ninth Pl Charlotte NC,32000
+CC010,Raj Patel,1986-07-19,IN,101 Tenth Blvd Tampa FL,24000

@@ -1,0 +1,31 @@
+customer_id,source_system,full_name,dob,nationality,screening_status,matched_entity_name,match_score,category,dob_match,nationality_match,recon_timestamp
+HL001,housing_loan,John Michael Smith,1985-03-15,US,HIT,John Michael Smith Jr,97,Adverse Media,True,True,2026-03-10 17:20:18 UTC
+HL002,housing_loan,Maria Garcia Lopez,1990-07-22,MX,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+HL003,housing_loan,Ahmad Hassan Al-Rashid,1978-11-03,SA,HIT,Ahmad Hassan Al Rashid,100,Adverse Media,True,True,2026-03-10 17:20:18 UTC
+HL004,housing_loan,Elena Petrova,1982-05-18,RU,HIT,Elena Petrova,100,Sanctions,True,True,2026-03-10 17:20:18 UTC
+HL005,housing_loan,James Robert Wilson,1995-01-30,US,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+HL006,housing_loan,Fatima Al-Zahra,1988-09-12,AE,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+HL007,housing_loan,Chen Wei Ming,1975-04-25,CN,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+HL008,housing_loan,Olga Ivanova Kuznetsova,1992-12-08,RU,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+HL009,housing_loan,Mohammed bin Salman,1985-08-31,SA,HIT,Mohammed bin Salman Al Saud,88,PEP,True,True,2026-03-10 17:20:18 UTC
+HL010,housing_loan,Sarah Jane Thompson,1980-06-14,GB,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+SL001,student_loan,David Lee Chang,1998-02-20,US,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+SL002,student_loan,Aisha Mohammed Khan,1999-05-11,PK,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+SL003,student_loan,Viktor Petrov,1997-08-30,RU,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+SL004,student_loan,Ana Sofia Rodriguez,1996-11-15,CO,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+SL005,student_loan,Ahmed Hassan Rashid,1978-11-03,SA,HIT,Ahmad Hassan Al Rashid,93,Adverse Media,True,True,2026-03-10 17:20:18 UTC
+SL006,student_loan,Yuki Tanaka,2000-03-22,JP,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+SL007,student_loan,Elena Petrov,1982-05-18,RU,HIT,Elena Petrova,100,Sanctions,True,True,2026-03-10 17:20:18 UTC
+SL008,student_loan,Omar Abdullahi,1995-07-09,SO,HIT,Omar Hassan Abdullahi,85,Sanctions,True,True,2026-03-10 17:20:18 UTC
+SL009,student_loan,Li Wei Chen,1998-12-01,CN,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+SL010,student_loan,Priya Sharma,1999-09-17,IN,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+CC001,credit_card,Robert James Brown,1987-04-10,US,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+CC002,credit_card,Fatimah Al Zahra,1988-09-12,AE,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+CC003,credit_card,Sergei Ivanov,1991-01-25,RU,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+CC004,credit_card,John M Smith,1985-03-15,US,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+CC005,credit_card,Mei Lin Wong,1993-06-28,SG,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+CC006,credit_card,Mohammed Bin Salman,1985-08-31,SA,HIT,Mohammed bin Salman Al Saud,88,PEP,True,True,2026-03-10 17:20:18 UTC
+CC007,credit_card,Isabella Martinez,1994-10-05,AR,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+CC008,credit_card,Andrei Kuznetsov,1989-02-14,RU,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+CC009,credit_card,Sarah Thompson,1980-06-14,GB,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC
+CC010,credit_card,Raj Patel,1986-07-19,IN,NO HIT,,0,,False,False,2026-03-10 17:20:18 UTC

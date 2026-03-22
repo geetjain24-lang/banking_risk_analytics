@@ -1,0 +1,5 @@
+pandas>=2.0.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
+boto3>=1.28.0
+pyyaml>=6.0

@@ -1,0 +1,501 @@
+CustomerID,Name,CustomerType,Country,OnboardingChannel,RiskScore,RiskCategory
+1,Customer_1,C,USA,Online,45,Digital Channel Risk
+2,Customer_2,P,USA,Online,45,Digital Channel Risk
+3,Customer_3,C,USA,Online,45,Digital Channel Risk
+4,Customer_4,P,USA,F2F,25,Loan Default Risk
+5,Customer_5,C,IRAN,Online,85,High-Risk Jurisdiction
+6,Customer_6,P,USA,Online,45,Digital Channel Risk
+7,Customer_7,C,UK,Online,45,Digital Channel Risk
+8,Customer_8,P,USA,F2F,25,Loan Default Risk
+9,Customer_9,C,USA,Online,45,Digital Channel Risk
+10,Customer_10,P,IRAN,Online,85,High-Risk Jurisdiction
+11,Customer_11,C,USA,Online,45,Digital Channel Risk
+12,Customer_12,P,USA,F2F,25,Loan Default Risk
+13,Customer_13,C,USA,Online,45,Digital Channel Risk
+14,Customer_14,P,UK,Online,45,Digital Channel Risk
+15,Customer_15,C,IRAN,Online,85,High-Risk Jurisdiction
+16,Customer_16,P,USA,F2F,25,Loan Default Risk
+17,Customer_17,C,USA,Online,45,Digital Channel Risk
+18,Customer_18,P,USA,Online,45,Digital Channel Risk
+19,Customer_19,C,USA,Online,45,Digital Channel Risk
+20,Customer_20,P,IRAN,F2F,65,High-Risk Jurisdiction
+21,Customer_21,C,UK,Online,45,Digital Channel Risk
+22,Customer_22,P,USA,Online,45,Digital Channel Risk
+23,Customer_23,C,USA,Online,45,Digital Channel Risk
+24,Customer_24,P,USA,F2F,25,Loan Default Risk
+25,Customer_25,C,IRAN,Online,85,High-Risk Jurisdiction
+26,Customer_26,P,USA,Online,45,Digital Channel Risk
+27,Customer_27,C,USA,Online,45,Digital Channel Risk
+28,Customer_28,P,UK,F2F,25,Loan Default Risk
+29,Customer_29,C,USA,Online,45,Digital Channel Risk
+30,Customer_30,P,IRAN,Online,85,High-Risk Jurisdiction
+31,Customer_31,C,USA,Online,45,Digital Channel Risk
+32,Customer_32,P,USA,F2F,25,Loan Default Risk
+33,Customer_33,C,USA,Online,45,Digital Channel Risk
+34,Customer_34,P,USA,Online,45,Digital Channel Risk
+35,Customer_35,C,IRAN,Online,85,High-Risk Jurisdiction
+36,Customer_36,P,USA,F2F,25,Loan Default Risk
+37,Customer_37,C,USA,Online,45,Digital Channel Risk
+38,Customer_38,P,USA,Online,45,Digital Channel Risk
+39,Customer_39,C,USA,Online,45,Digital Channel Risk
+40,Customer_40,P,IRAN,F2F,65,High-Risk Jurisdiction
+41,Customer_41,C,USA,Online,45,Digital Channel Risk
+42,Customer_42,P,UK,Online,45,Digital Channel Risk
+43,Customer_43,C,USA,Online,45,Digital Channel Risk
+44,Customer_44,P,USA,F2F,25,Loan Default Risk
+45,Customer_45,C,IRAN,Online,85,High-Risk Jurisdiction
+46,Customer_46,P,USA,Online,45,Digital Channel Risk
+47,Customer_47,C,USA,Online,45,Digital Channel Risk
+48,Customer_48,P,USA,F2F,25,Loan Default Risk
+49,Customer_49,C,UK,Online,45,Digital Channel Risk
+50,Customer_50,P,IRAN,Online,85,High-Risk Jurisdiction
+51,Customer_51,C,USA,Online,45,Digital Channel Risk
+52,Customer_52,P,USA,F2F,25,Loan Default Risk
+53,Customer_53,C,USA,Online,45,Digital Channel Risk
+54,Customer_54,P,USA,Online,45,Digital Channel Risk
+55,Customer_55,C,IRAN,Online,85,High-Risk Jurisdiction
+56,Customer_56,P,UK,F2F,25,Loan Default Risk
+57,Customer_57,C,USA,Online,45,Digital Channel Risk
+58,Customer_58,P,USA,Online,45,Digital Channel Risk
+59,Customer_59,C,USA,Online,45,Digital Channel Risk
+60,Customer_60,P,IRAN,F2F,65,High-Risk Jurisdiction
+61,Customer_61,C,USA,Online,45,Digital Channel Risk
+62,Customer_62,P,USA,Online,45,Digital Channel Risk
+63,Customer_63,C,UK,Online,45,Digital Channel Risk
+64,Customer_64,P,USA,F2F,25,Loan Default Risk
+65,Customer_65,C,IRAN,Online,85,High-Risk Jurisdiction
+66,Customer_66,P,USA,Online,45,Digital Channel Risk
+67,Customer_67,C,USA,Online,45,Digital Channel Risk
+68,Customer_68,P,USA,F2F,25,Loan Default Risk
+69,Customer_69,C,USA,Online,45,Digital Channel Risk
+70,Customer_70,P,IRAN,Online,85,High-Risk Jurisdiction
+71,Customer_71,C,USA,Online,45,Digital Channel Risk
+72,Customer_72,P,USA,F2F,25,Loan Default Risk
+73,Customer_73,C,USA,Online,45,Digital Channel Risk
+74,Customer_74,P,USA,Online,45,Digital Channel Risk
+75,Customer_75,C,IRAN,Online,85,High-Risk Jurisdiction
+76,Customer_76,P,USA,F2F,25,Loan Default Risk
+77,Customer_77,C,UK,Online,45,Digital Channel Risk
+78,Customer_78,P,USA,Online,45,Digital Channel Risk
+79,Customer_79,C,USA,Online,45,Digital Channel Risk
+80,Customer_80,P,IRAN,F2F,65,High-Risk Jurisdiction
+81,Customer_81,C,USA,Online,45,Digital Channel Risk
+82,Customer_82,P,USA,Online,45,Digital Channel Risk
+83,Customer_83,C,USA,Online,45,Digital Channel Risk
+84,Customer_84,P,UK,F2F,25,Loan Default Risk
+85,Customer_85,C,IRAN,Online,85,High-Risk Jurisdiction
+86,Customer_86,P,USA,Online,45,Digital Channel Risk
+87,Customer_87,C,USA,Online,45,Digital Channel Risk
+88,Customer_88,P,USA,F2F,25,Loan Default Risk
+89,Customer_89,C,USA,Online,45,Digital Channel Risk
+90,Customer_90,P,IRAN,Online,85,High-Risk Jurisdiction
+91,Customer_91,C,UK,Online,45,Digital Channel Risk
+92,Customer_92,P,USA,F2F,25,Loan Default Risk
+93,Customer_93,C,USA,Online,45,Digital Channel Risk
+94,Customer_94,P,USA,Online,45,Digital Channel Risk
+95,Customer_95,C,IRAN,Online,85,High-Risk Jurisdiction
+96,Customer_96,P,USA,F2F,25,Loan Default Risk
+97,Customer_97,C,USA,Online,45,Digital Channel Risk
+98,Customer_98,P,UK,Online,45,Digital Channel Risk
+99,Customer_99,C,USA,Online,45,Digital Channel Risk
+100,Customer_100,P,IRAN,F2F,65,High-Risk Jurisdiction
+101,Customer_101,C,USA,Online,20,Digital Channel Risk
+102,Customer_102,P,USA,Online,20,Digital Channel Risk
+103,Customer_103,C,USA,Online,20,Digital Channel Risk
+104,Customer_104,P,USA,F2F,0,Low Risk
+105,Customer_105,C,IRAN,Online,60,High-Risk Jurisdiction
+106,Customer_106,P,USA,Online,20,Digital Channel Risk
+107,Customer_107,C,USA,Online,20,Digital Channel Risk
+108,Customer_108,P,USA,F2F,0,Low Risk
+109,Customer_109,C,USA,Online,20,Digital Channel Risk
+110,Customer_110,P,IRAN,Online,60,High-Risk Jurisdiction
+111,Customer_111,C,USA,Online,20,Digital Channel Risk
+112,Customer_112,P,UK,F2F,0,Low Risk
+113,Customer_113,C,USA,Online,20,Digital Channel Risk
+114,Customer_114,P,USA,Online,20,Digital Channel Risk
+115,Customer_115,C,IRAN,Online,60,High-Risk Jurisdiction
+116,Customer_116,P,USA,F2F,0,Low Risk
+117,Customer_117,C,USA,Online,20,Digital Channel Risk
+118,Customer_118,P,USA,Online,20,Digital Channel Risk
+119,Customer_119,C,UK,Online,20,Digital Channel Risk
+120,Customer_120,P,IRAN,F2F,40,High-Risk Jurisdiction
+121,Customer_121,C,USA,Online,20,Digital Channel Risk
+122,Customer_122,P,USA,Online,20,Digital Channel Risk
+123,Customer_123,C,USA,Online,20,Digital Channel Risk
+124,Customer_124,P,USA,F2F,0,Low Risk
+125,Customer_125,C,IRAN,Online,60,High-Risk Jurisdiction
+126,Customer_126,P,UK,Online,20,Digital Channel Risk
+127,Customer_127,C,USA,Online,20,Digital Channel Risk
+128,Customer_128,P,USA,F2F,0,Low Risk
+129,Customer_129,C,USA,Online,20,Digital Channel Risk
+130,Customer_130,P,IRAN,Online,60,High-Risk Jurisdiction
+131,Customer_131,C,USA,Online,20,Digital Channel Risk
+132,Customer_132,P,USA,F2F,0,Low Risk
+133,Customer_133,C,UK,Online,20,Digital Channel Risk
+134,Customer_134,P,USA,Online,20,Digital Channel Risk
+135,Customer_135,C,IRAN,Online,60,High-Risk Jurisdiction
+136,Customer_136,P,USA,F2F,0,Low Risk
+137,Customer_137,C,USA,Online,20,Digital Channel Risk
+138,Customer_138,P,USA,Online,20,Digital Channel Risk
+139,Customer_139,C,USA,Online,20,Digital Channel Risk
+140,Customer_140,P,IRAN,F2F,40,High-Risk Jurisdiction
+141,Customer_141,C,USA,Online,20,Digital Channel Risk
+142,Customer_142,P,USA,Online,20,Digital Channel Risk
+143,Customer_143,C,USA,Online,20,Digital Channel Risk
+144,Customer_144,P,USA,F2F,0,Low Risk
+145,Customer_145,C,IRAN,Online,60,High-Risk Jurisdiction
+146,Customer_146,P,USA,Online,20,Digital Channel Risk
+147,Customer_147,C,UK,Online,20,Digital Channel Risk
+148,Customer_148,P,USA,F2F,0,Low Risk
+149,Customer_149,C,USA,Online,20,Digital Channel Risk
+150,Customer_150,P,IRAN,Online,60,High-Risk Jurisdiction
+151,Customer_151,C,USA,Online,20,Digital Channel Risk
+152,Customer_152,P,USA,F2F,0,Low Risk
+153,Customer_153,C,USA,Online,20,Digital Channel Risk
+154,Customer_154,P,UK,Online,20,Digital Channel Risk
+155,Customer_155,C,IRAN,Online,60,High-Risk Jurisdiction
+156,Customer_156,P,USA,F2F,0,Low Risk
+157,Customer_157,C,USA,Online,20,Digital Channel Risk
+158,Customer_158,P,USA,Online,20,Digital Channel Risk
+159,Customer_159,C,USA,Online,20,Digital Channel Risk
+160,Customer_160,P,IRAN,F2F,40,High-Risk Jurisdiction
+161,Customer_161,C,UK,Online,20,Digital Channel Risk
+162,Customer_162,P,USA,Online,20,Digital Channel Risk
+163,Customer_163,C,USA,Online,20,Digital Channel Risk
+164,Customer_164,P,USA,F2F,0,Low Risk
+165,Customer_165,C,IRAN,Online,60,High-Risk Jurisdiction
+166,Customer_166,P,USA,Online,20,Digital Channel Risk
+167,Customer_167,C,USA,Online,20,Digital Channel Risk
+168,Customer_168,P,UK,F2F,0,Low Risk
+169,Customer_169,C,USA,Online,20,Digital Channel Risk
+170,Customer_170,P,IRAN,Online,60,High-Risk Jurisdiction
+171,Customer_171,C,USA,Online,20,Digital Channel Risk
+172,Customer_172,P,USA,F2F,0,Low Risk
+173,Customer_173,C,USA,Online,20,Digital Channel Risk
+174,Customer_174,P,USA,Online,20,Digital Channel Risk
+175,Customer_175,C,IRAN,Online,60,High-Risk Jurisdiction
+176,Customer_176,P,USA,F2F,0,Low Risk
+177,Customer_177,C,USA,Online,20,Digital Channel Risk
+178,Customer_178,P,USA,Online,20,Digital Channel Risk
+179,Customer_179,C,USA,Online,20,Digital Channel Risk
+180,Customer_180,P,IRAN,F2F,40,High-Risk Jurisdiction
+181,Customer_181,C,USA,Online,20,Digital Channel Risk
+182,Customer_182,P,UK,Online,20,Digital Channel Risk
+183,Customer_183,C,USA,Online,20,Digital Channel Risk
+184,Customer_184,P,USA,F2F,0,Low Risk
+185,Customer_185,C,IRAN,Online,60,High-Risk Jurisdiction
+186,Customer_186,P,USA,Online,20,Digital Channel Risk
+187,Customer_187,C,USA,Online,20,Digital Channel Risk
+188,Customer_188,P,USA,F2F,0,Low Risk
+189,Customer_189,C,UK,Online,20,Digital Channel Risk
+190,Customer_190,P,IRAN,Online,60,High-Risk Jurisdiction
+191,Customer_191,C,USA,Online,20,Digital Channel Risk
+192,Customer_192,P,USA,F2F,0,Low Risk
+193,Customer_193,C,USA,Online,20,Digital Channel Risk
+194,Customer_194,P,USA,Online,20,Digital Channel Risk
+195,Customer_195,C,IRAN,Online,60,High-Risk Jurisdiction
+196,Customer_196,P,UK,F2F,0,Low Risk
+197,Customer_197,C,USA,Online,20,Digital Channel Risk
+198,Customer_198,P,USA,Online,20,Digital Channel Risk
+199,Customer_199,C,USA,Online,20,Digital Channel Risk
+200,Customer_200,P,IRAN,F2F,40,High-Risk Jurisdiction
+201,Customer_201,C,USA,Online,20,Digital Channel Risk
+202,Customer_202,P,USA,Online,20,Digital Channel Risk
+203,Customer_203,C,UK,Online,20,Digital Channel Risk
+204,Customer_204,P,USA,F2F,0,Low Risk
+205,Customer_205,C,IRAN,Online,60,High-Risk Jurisdiction
+206,Customer_206,P,USA,Online,20,Digital Channel Risk
+207,Customer_207,C,USA,Online,20,Digital Channel Risk
+208,Customer_208,P,USA,F2F,0,Low Risk
+209,Customer_209,C,USA,Online,20,Digital Channel Risk
+210,Customer_210,P,IRAN,Online,60,High-Risk Jurisdiction
+211,Customer_211,C,USA,Online,20,Digital Channel Risk
+212,Customer_212,P,USA,F2F,0,Low Risk
+213,Customer_213,C,USA,Online,20,Digital Channel Risk
+214,Customer_214,P,USA,Online,20,Digital Channel Risk
+215,Customer_215,C,IRAN,Online,60,High-Risk Jurisdiction
+216,Customer_216,P,USA,F2F,0,Low Risk
+217,Customer_217,C,UK,Online,20,Digital Channel Risk
+218,Customer_218,P,USA,Online,20,Digital Channel Risk
+219,Customer_219,C,USA,Online,20,Digital Channel Risk
+220,Customer_220,P,IRAN,F2F,40,High-Risk Jurisdiction
+221,Customer_221,C,USA,Online,20,Digital Channel Risk
+222,Customer_222,P,USA,Online,20,Digital Channel Risk
+223,Customer_223,C,USA,Online,20,Digital Channel Risk
+224,Customer_224,P,UK,F2F,0,Low Risk
+225,Customer_225,C,IRAN,Online,60,High-Risk Jurisdiction
+226,Customer_226,P,USA,Online,20,Digital Channel Risk
+227,Customer_227,C,USA,Online,20,Digital Channel Risk
+228,Customer_228,P,USA,F2F,0,Low Risk
+229,Customer_229,C,USA,Online,20,Digital Channel Risk
+230,Customer_230,P,IRAN,Online,60,High-Risk Jurisdiction
+231,Customer_231,C,UK,Online,20,Digital Channel Risk
+232,Customer_232,P,USA,F2F,0,Low Risk
+233,Customer_233,C,USA,Online,20,Digital Channel Risk
+234,Customer_234,P,USA,Online,20,Digital Channel Risk
+235,Customer_235,C,IRAN,Online,60,High-Risk Jurisdiction
+236,Customer_236,P,USA,F2F,0,Low Risk
+237,Customer_237,C,USA,Online,20,Digital Channel Risk
+238,Customer_238,P,UK,Online,20,Digital Channel Risk
+239,Customer_239,C,USA,Online,20,Digital Channel Risk
+240,Customer_240,P,IRAN,F2F,40,High-Risk Jurisdiction
+241,Customer_241,C,USA,Online,20,Digital Channel Risk
+242,Customer_242,P,USA,Online,20,Digital Channel Risk
+243,Customer_243,C,USA,Online,20,Digital Channel Risk
+244,Customer_244,P,USA,F2F,0,Low Risk
+245,Customer_245,C,IRAN,Online,60,High-Risk Jurisdiction
+246,Customer_246,P,USA,Online,20,Digital Channel Risk
+247,Customer_247,C,USA,Online,20,Digital Channel Risk
+248,Customer_248,P,USA,F2F,0,Low Risk
+249,Customer_249,C,USA,Online,20,Digital Channel Risk
+250,Customer_250,P,IRAN,Online,60,High-Risk Jurisdiction
+251,Customer_251,C,USA,Online,20,Digital Channel Risk
+252,Customer_252,P,UK,F2F,0,Low Risk
+253,Customer_253,C,USA,Online,20,Digital Channel Risk
+254,Customer_254,P,USA,Online,20,Digital Channel Risk
+255,Customer_255,C,IRAN,Online,60,High-Risk Jurisdiction
+256,Customer_256,P,USA,F2F,0,Low Risk
+257,Customer_257,C,USA,Online,20,Digital Channel Risk
+258,Customer_258,P,USA,Online,20,Digital Channel Risk
+259,Customer_259,C,UK,Online,20,Digital Channel Risk
+260,Customer_260,P,IRAN,F2F,40,High-Risk Jurisdiction
+261,Customer_261,C,USA,Online,20,Digital Channel Risk
+262,Customer_262,P,USA,Online,20,Digital Channel Risk
+263,Customer_263,C,USA,Online,20,Digital Channel Risk
+264,Customer_264,P,USA,F2F,0,Low Risk
+265,Customer_265,C,IRAN,Online,60,High-Risk Jurisdiction
+266,Customer_266,P,UK,Online,20,Digital Channel Risk
+267,Customer_267,C,USA,Online,20,Digital Channel Risk
+268,Customer_268,P,USA,F2F,0,Low Risk
+269,Customer_269,C,USA,Online,20,Digital Channel Risk
+270,Customer_270,P,IRAN,Online,60,High-Risk Jurisdiction
+271,Customer_271,C,USA,Online,20,Digital Channel Risk
+272,Customer_272,P,USA,F2F,0,Low Risk
+273,Customer_273,C,UK,Online,20,Digital Channel Risk
+274,Customer_274,P,USA,Online,20,Digital Channel Risk
+275,Customer_275,C,IRAN,Online,60,High-Risk Jurisdiction
+276,Customer_276,P,USA,F2F,0,Low Risk
+277,Customer_277,C,USA,Online,20,Digital Channel Risk
+278,Customer_278,P,USA,Online,20,Digital Channel Risk
+279,Customer_279,C,USA,Online,20,Digital Channel Risk
+280,Customer_280,P,IRAN,F2F,40,High-Risk Jurisdiction
+281,Customer_281,C,USA,Online,20,Digital Channel Risk
+282,Customer_282,P,USA,Online,20,Digital Channel Risk
+283,Customer_283,C,USA,Online,20,Digital Channel Risk
+284,Customer_284,P,USA,F2F,0,Low Risk
+285,Customer_285,C,IRAN,Online,60,High-Risk Jurisdiction
+286,Customer_286,P,USA,Online,20,Digital Channel Risk
+287,Customer_287,C,UK,Online,20,Digital Channel Risk
+288,Customer_288,P,USA,F2F,0,Low Risk
+289,Customer_289,C,USA,Online,20,Digital Channel Risk
+290,Customer_290,P,IRAN,Online,60,High-Risk Jurisdiction
+291,Customer_291,C,USA,Online,20,Digital Channel Risk
+292,Customer_292,P,USA,F2F,0,Low Risk
+293,Customer_293,C,USA,Online,20,Digital Channel Risk
+294,Customer_294,P,UK,Online,20,Digital Channel Risk
+295,Customer_295,C,IRAN,Online,60,High-Risk Jurisdiction
+296,Customer_296,P,USA,F2F,0,Low Risk
+297,Customer_297,C,USA,Online,20,Digital Channel Risk
+298,Customer_298,P,USA,Online,20,Digital Channel Risk
+299,Customer_299,C,USA,Online,20,Digital Channel Risk
+300,Customer_300,P,IRAN,F2F,40,High-Risk Jurisdiction
+301,Customer_301,C,UK,Online,20,Digital Channel Risk
+302,Customer_302,P,USA,Online,20,Digital Channel Risk
+303,Customer_303,C,USA,Online,20,Digital Channel Risk
+304,Customer_304,P,USA,F2F,0,Low Risk
+305,Customer_305,C,IRAN,Online,60,High-Risk Jurisdiction
+306,Customer_306,P,USA,Online,20,Digital Channel Risk
+307,Customer_307,C,USA,Online,20,Digital Channel Risk
+308,Customer_308,P,UK,F2F,0,Low Risk
+309,Customer_309,C,USA,Online,20,Digital Channel Risk
+310,Customer_310,P,IRAN,Online,60,High-Risk Jurisdiction
+311,Customer_311,C,USA,Online,20,Digital Channel Risk
+312,Customer_312,P,USA,F2F,0,Low Risk
+313,Customer_313,C,USA,Online,20,Digital Channel Risk
+314,Customer_314,P,USA,Online,20,Digital Channel Risk
+315,Customer_315,C,IRAN,Online,60,High-Risk Jurisdiction
+316,Customer_316,P,USA,F2F,0,Low Risk
+317,Customer_317,C,USA,Online,20,Digital Channel Risk
+318,Customer_318,P,USA,Online,20,Digital Channel Risk
+319,Customer_319,C,USA,Online,20,Digital Channel Risk
+320,Customer_320,P,IRAN,F2F,40,High-Risk Jurisdiction
+321,Customer_321,C,USA,Online,20,Digital Channel Risk
+322,Customer_322,P,UK,Online,20,Digital Channel Risk
+323,Customer_323,C,USA,Online,20,Digital Channel Risk
+324,Customer_324,P,USA,F2F,0,Low Risk
+325,Customer_325,C,IRAN,Online,60,High-Risk Jurisdiction
+326,Customer_326,P,USA,Online,20,Digital Channel Risk
+327,Customer_327,C,USA,Online,20,Digital Channel Risk
+328,Customer_328,P,USA,F2F,0,Low Risk
+329,Customer_329,C,UK,Online,20,Digital Channel Risk
+330,Customer_330,P,IRAN,Online,60,High-Risk Jurisdiction
+331,Customer_331,C,USA,Online,20,Digital Channel Risk
+332,Customer_332,P,USA,F2F,0,Low Risk
+333,Customer_333,C,USA,Online,20,Digital Channel Risk
+334,Customer_334,P,USA,Online,20,Digital Channel Risk
+335,Customer_335,C,IRAN,Online,60,High-Risk Jurisdiction
+336,Customer_336,P,UK,F2F,0,Low Risk
+337,Customer_337,C,USA,Online,20,Digital Channel Risk
+338,Customer_338,P,USA,Online,20,Digital Channel Risk
+339,Customer_339,C,USA,Online,20,Digital Channel Risk
+340,Customer_340,P,IRAN,F2F,40,High-Risk Jurisdiction
+341,Customer_341,C,USA,Online,20,Digital Channel Risk
+342,Customer_342,P,USA,Online,20,Digital Channel Risk
+343,Customer_343,C,UK,Online,20,Digital Channel Risk
+344,Customer_344,P,USA,F2F,0,Low Risk
+345,Customer_345,C,IRAN,Online,60,High-Risk Jurisdiction
+346,Customer_346,P,USA,Online,20,Digital Channel Risk
+347,Customer_347,C,USA,Online,20,Digital Channel Risk
+348,Customer_348,P,USA,F2F,0,Low Risk
+349,Customer_349,C,USA,Online,20,Digital Channel Risk
+350,Customer_350,P,IRAN,Online,60,High-Risk Jurisdiction
+351,Customer_351,C,USA,Online,20,Digital Channel Risk
+352,Customer_352,P,USA,F2F,0,Low Risk
+353,Customer_353,C,USA,Online,20,Digital Channel Risk
+354,Customer_354,P,USA,Online,20,Digital Channel Risk
+355,Customer_355,C,IRAN,Online,60,High-Risk Jurisdiction
+356,Customer_356,P,USA,F2F,0,Low Risk
+357,Customer_357,C,UK,Online,20,Digital Channel Risk
+358,Customer_358,P,USA,Online,20,Digital Channel Risk
+359,Customer_359,C,USA,Online,20,Digital Channel Risk
+360,Customer_360,P,IRAN,F2F,40,High-Risk Jurisdiction
+361,Customer_361,C,USA,Online,20,Digital Channel Risk
+362,Customer_362,P,USA,Online,20,Digital Channel Risk
+363,Customer_363,C,USA,Online,20,Digital Channel Risk
+364,Customer_364,P,UK,F2F,0,Low Risk
+365,Customer_365,C,IRAN,Online,60,High-Risk Jurisdiction
+366,Customer_366,P,USA,Online,20,Digital Channel Risk
+367,Customer_367,C,USA,Online,20,Digital Channel Risk
+368,Customer_368,P,USA,F2F,0,Low Risk
+369,Customer_369,C,USA,Online,20,Digital Channel Risk
+370,Customer_370,P,IRAN,Online,60,High-Risk Jurisdiction
+371,Customer_371,C,UK,Online,20,Digital Channel Risk
+372,Customer_372,P,USA,F2F,0,Low Risk
+373,Customer_373,C,USA,Online,20,Digital Channel Risk
+374,Customer_374,P,USA,Online,20,Digital Channel Risk
+375,Customer_375,C,IRAN,Online,60,High-Risk Jurisdiction
+376,Customer_376,P,USA,F2F,0,Low Risk
+377,Customer_377,C,USA,Online,20,Digital Channel Risk
+378,Customer_378,P,UK,Online,20,Digital Channel Risk
+379,Customer_379,C,USA,Online,20,Digital Channel Risk
+380,Customer_380,P,IRAN,F2F,40,High-Risk Jurisdiction
+381,Customer_381,C,USA,Online,20,Digital Channel Risk
+382,Customer_382,P,USA,Online,20,Digital Channel Risk
+383,Customer_383,C,USA,Online,20,Digital Channel Risk
+384,Customer_384,P,USA,F2F,0,Low Risk
+385,Customer_385,C,IRAN,Online,60,High-Risk Jurisdiction
+386,Customer_386,P,USA,Online,20,Digital Channel Risk
+387,Customer_387,C,USA,Online,20,Digital Channel Risk
+388,Customer_388,P,USA,F2F,0,Low Risk
+389,Customer_389,C,USA,Online,20,Digital Channel Risk
+390,Customer_390,P,IRAN,Online,60,High-Risk Jurisdiction
+391,Customer_391,C,USA,Online,20,Digital Channel Risk
+392,Customer_392,P,UK,F2F,0,Low Risk
+393,Customer_393,C,USA,Online,20,Digital Channel Risk
+394,Customer_394,P,USA,Online,20,Digital Channel Risk
+395,Customer_395,C,IRAN,Online,60,High-Risk Jurisdiction
+396,Customer_396,P,USA,F2F,0,Low Risk
+397,Customer_397,C,USA,Online,20,Digital Channel Risk
+398,Customer_398,P,USA,Online,20,Digital Channel Risk
+399,Customer_399,C,UK,Online,20,Digital Channel Risk
+400,Customer_400,P,IRAN,F2F,40,High-Risk Jurisdiction
+401,Customer_401,C,USA,Online,20,Digital Channel Risk
+402,Customer_402,P,USA,Online,20,Digital Channel Risk
+403,Customer_403,C,USA,Online,20,Digital Channel Risk
+404,Customer_404,P,USA,F2F,0,Low Risk
+405,Customer_405,C,IRAN,Online,60,High-Risk Jurisdiction
+406,Customer_406,P,UK,Online,20,Digital Channel Risk
+407,Customer_407,C,USA,Online,20,Digital Channel Risk
+408,Customer_408,P,USA,F2F,0,Low Risk
+409,Customer_409,C,USA,Online,20,Digital Channel Risk
+410,Customer_410,P,IRAN,Online,60,High-Risk Jurisdiction
+411,Customer_411,C,USA,Online,20,Digital Channel Risk
+412,Customer_412,P,USA,F2F,0,Low Risk
+413,Customer_413,C,UK,Online,20,Digital Channel Risk
+414,Customer_414,P,USA,Online,20,Digital Channel Risk
+415,Customer_415,C,IRAN,Online,60,High-Risk Jurisdiction
+416,Customer_416,P,USA,F2F,0,Low Risk
+417,Customer_417,C,USA,Online,20,Digital Channel Risk
+418,Customer_418,P,USA,Online,20,Digital Channel Risk
+419,Customer_419,C,USA,Online,20,Digital Channel Risk
+420,Customer_420,P,IRAN,F2F,40,High-Risk Jurisdiction
+421,Customer_421,C,USA,Online,20,Digital Channel Risk
+422,Customer_422,P,USA,Online,20,Digital Channel Risk
+423,Customer_423,C,USA,Online,20,Digital Channel Risk
+424,Customer_424,P,USA,F2F,0,Low Risk
+425,Customer_425,C,IRAN,Online,60,High-Risk Jurisdiction
+426,Customer_426,P,USA,Online,20,Digital Channel Risk
+427,Customer_427,C,UK,Online,20,Digital Channel Risk
+428,Customer_428,P,USA,F2F,0,Low Risk
+429,Customer_429,C,USA,Online,20,Digital Channel Risk
+430,Customer_430,P,IRAN,Online,60,High-Risk Jurisdiction
+431,Customer_431,C,USA,Online,20,Digital Channel Risk
+432,Customer_432,P,USA,F2F,0,Low Risk
+433,Customer_433,C,USA,Online,20,Digital Channel Risk
+434,Customer_434,P,UK,Online,20,Digital Channel Risk
+435,Customer_435,C,IRAN,Online,60,High-Risk Jurisdiction
+436,Customer_436,P,USA,F2F,0,Low Risk
+437,Customer_437,C,USA,Online,20,Digital Channel Risk
+438,Customer_438,P,USA,Online,20,Digital Channel Risk
+439,Customer_439,C,USA,Online,20,Digital Channel Risk
+440,Customer_440,P,IRAN,F2F,40,High-Risk Jurisdiction
+441,Customer_441,C,UK,Online,20,Digital Channel Risk
+442,Customer_442,P,USA,Online,20,Digital Channel Risk
+443,Customer_443,C,USA,Online,20,Digital Channel Risk
+444,Customer_444,P,USA,F2F,0,Low Risk
+445,Customer_445,C,IRAN,Online,60,High-Risk Jurisdiction
+446,Customer_446,P,USA,Online,20,Digital Channel Risk
+447,Customer_447,C,USA,Online,20,Digital Channel Risk
+448,Customer_448,P,UK,F2F,0,Low Risk
+449,Customer_449,C,USA,Online,20,Digital Channel Risk
+450,Customer_450,P,IRAN,Online,60,High-Risk Jurisdiction
+451,Customer_451,C,USA,Online,20,Digital Channel Risk
+452,Customer_452,P,USA,F2F,0,Low Risk
+453,Customer_453,C,USA,Online,20,Digital Channel Risk
+454,Customer_454,P,USA,Online,20,Digital Channel Risk
+455,Customer_455,C,IRAN,Online,60,High-Risk Jurisdiction
+456,Customer_456,P,USA,F2F,0,Low Risk
+457,Customer_457,C,USA,Online,20,Digital Channel Risk
+458,Customer_458,P,USA,Online,20,Digital Channel Risk
+459,Customer_459,C,USA,Online,20,Digital Channel Risk
+460,Customer_460,P,IRAN,F2F,40,High-Risk Jurisdiction
+461,Customer_461,C,USA,Online,20,Digital Channel Risk
+462,Customer_462,P,UK,Online,20,Digital Channel Risk
+463,Customer_463,C,USA,Online,20,Digital Channel Risk
+464,Customer_464,P,USA,F2F,0,Low Risk
+465,Customer_465,C,IRAN,Online,60,High-Risk Jurisdiction
+466,Customer_466,P,USA,Online,20,Digital Channel Risk
+467,Customer_467,C,USA,Online,20,Digital Channel Risk
+468,Customer_468,P,USA,F2F,0,Low Risk
+469,Customer_469,C,UK,Online,20,Digital Channel Risk
+470,Customer_470,P,IRAN,Online,60,High-Risk Jurisdiction
+471,Customer_471,C,USA,Online,20,Digital Channel Risk
+472,Customer_472,P,USA,F2F,0,Low Risk
+473,Customer_473,C,USA,Online,20,Digital Channel Risk
+474,Customer_474,P,USA,Online,20,Digital Channel Risk
+475,Customer_475,C,IRAN,Online,60,High-Risk Jurisdiction
+476,Customer_476,P,UK,F2F,0,Low Risk
+477,Customer_477,C,USA,Online,20,Digital Channel Risk
+478,Customer_478,P,USA,Online,20,Digital Channel Risk
+479,Customer_479,C,USA,Online,20,Digital Channel Risk
+480,Customer_480,P,IRAN,F2F,40,High-Risk Jurisdiction
+481,Customer_481,C,USA,Online,20,Digital Channel Risk
+482,Customer_482,P,USA,Online,20,Digital Channel Risk
+483,Customer_483,C,UK,Online,20,Digital Channel Risk
+484,Customer_484,P,USA,F2F,0,Low Risk
+485,Customer_485,C,IRAN,Online,60,High-Risk Jurisdiction
+486,Customer_486,P,USA,Online,20,Digital Channel Risk
+487,Customer_487,C,USA,Online,20,Digital Channel Risk
+488,Customer_488,P,USA,F2F,0,Low Risk
+489,Customer_489,C,USA,Online,20,Digital Channel Risk
+490,Customer_490,P,IRAN,Online,60,High-Risk Jurisdiction
+491,Customer_491,C,USA,Online,20,Digital Channel Risk
+492,Customer_492,P,USA,F2F,0,Low Risk
+493,Customer_493,C,USA,Online,20,Digital Channel Risk
+494,Customer_494,P,USA,Online,20,Digital Channel Risk
+495,Customer_495,C,IRAN,Online,60,High-Risk Jurisdiction
+496,Customer_496,P,USA,F2F,0,Low Risk
+497,Customer_497,C,UK,Online,20,Digital Channel Risk
+498,Customer_498,P,USA,Online,20,Digital Channel Risk
+499,Customer_499,C,USA,Online,20,Digital Channel Risk
+500,Customer_500,P,IRAN,F2F,40,High-Risk Jurisdiction
